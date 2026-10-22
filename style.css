@@ -1,0 +1,37 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: powderblue;
+    height: 100px;
+}
+
+#länk {
+    background-color: powderblue;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+#klubbar{
+    background-color: powderblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#logor{
+    background-color: powderblue;
+    display: flex;
+    justify-content: space-around;
+    height: 325px;
+}
+
+#text{
+    background-color: powderblue;
+    display: flex;
+    justify-content: space-around;
+}
+
+#foot{
+    background-color: powderblue;
+    display: flex;
+    justify-content: center;
+}
